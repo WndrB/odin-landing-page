@@ -1,0 +1,75 @@
+body {
+  font-family: Roboto;
+  margin: 0;
+}
+.header, .main, .footer {
+  background: #1f2937;
+}
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: 800;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.main-content h1 {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 900;
+}
+.main-content p {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+button {
+  background: #3882f6;
+  color: #f9faf8;
+  font-size: 18px;
+  font-weight: 500;
+}
+.information h2 {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+}
+.card p {
+  color: #1f2937;
+  font-size: 18px;
+}
+.quote {
+  background: #e5e7eb;
+  color: #1f2937;
+}
+.quote .text {
+  font-style: italic;
+  font-size: 36px;
+  font-weight: 300;
+}
+.quote .autor {
+  font-size: 24px;
+  font-weight: 800;
+}
+.call {
+  background: #3882f6;
+}
+.call h3 {
+  color: #f9faf8;
+  font-size: 24px;
+}
+.call p {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+.footer {
+  color: #e5e7eb;
+  font-size: 18px;
+}
